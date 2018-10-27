@@ -72,6 +72,15 @@ Epochs:300
 Batch size:4000
 
 
+Once the model has given a probabilistic output  for the location and occurence of the aftershock and the forecoming disasters , 
+An SOS is sent to all the civilians in the region affected by the calamity. All the relief camps are given an update before time, which can be used to implement and successfully execute a search and rescue operation .
+
+
+A Map will be generated which alerts all the users about the earthquakes happening , with significant ones being marked along with their magnitude . 
+
+Flutter has been used for the app service and Twilio has been used to send instructions and sn SMS alert to a specifief point of contact.
+
+
 Other references of use:
 ========================
 1.Study material:http://www.bosai.go.jp/study/application/dc3d/DC3Dhtml_E.html
